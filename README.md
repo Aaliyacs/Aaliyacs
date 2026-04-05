@@ -1,3 +1,8 @@
+# Hi there 👋 I'm Aaliya
+
+💻 **MERN Stack Developer** | 🧠 **DSA Problem Solving Enthusiast**
+
+
 # 💫 About Me:
 <br><br>🎓 B.Tech CSE student at **IMS Engineering College**<br>🔭 Currently improving **Data Structures & Algorithms (DSA)** and **Java**<br>💻 Skilled in **Frontend:** HTML, CSS, Tailwind CSS, React.js<br>🌱 Learning **Backend:** Node.js, Express.js to build **MERN stack applications**<br>🤝 Open to collaborate on **Full-Stack / MERN / Open Source Projects**<br> 🤖 Interested in **AI/ML and building real-world tech solutions**<br> ⚡ Fun fact: I enjoy **solving coding challenges and learning new technologies**<br>
 
