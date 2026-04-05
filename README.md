@@ -2,7 +2,7 @@
 <br><br>
 
 💻 **MERN Stack Developer** | 🧠 **DSA Problem Solving Enthusiast**
-<br><br>
+
 
 # 💫 About Me:
 <br><br>🎓 B.Tech CSE student at **IMS Engineering College**<br>🔭 Currently improving **Data Structures & Algorithms (DSA)** and **Java**<br>💻 Skilled in **Frontend:** HTML, CSS, Tailwind CSS, React.js<br>🌱 Learning **Backend:** Node.js, Express.js to build **MERN stack applications**<br>🤝 Open to collaborate on **Full-Stack / MERN / Open Source Projects**<br> 🤖 Interested in **AI/ML and building real-world tech solutions**<br> ⚡ Fun fact: I enjoy **solving coding challenges and learning new technologies**<br>
@@ -41,12 +41,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aaliyacs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Aaliyacs&icon=0&color=0)](https://visitcount.itsvg.in)
----
 
 ### ⭐ Support
 
