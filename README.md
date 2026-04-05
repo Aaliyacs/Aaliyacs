@@ -11,13 +11,13 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 CityCare Hospital Management System
+### 🏥 [CityCare Hospital Management System](https://github.com/Aaliyacs/CityCare-Hospital)
+
 - Developed a web-based system to manage hospital operations including patient information and appointment workflows.  
 - Designed a responsive user interface for smooth navigation and usability.  
 - Implemented frontend functionality using modern web technologies.
 
-**Tech Stack:** HTML, CSS, JavaScript  
-🔗 https://github.com/Aaliyacs/CityCare-Hospital
+**Tech Stack:** HTML, CSS, JavaScript
 
 [![Smart Medicine Expiry Inventory System](https://github-readme-stats.vercel.app/api/pin/?username=Aaliyacs&repo=Smart-Medicine-Expiry-Inventory-System&theme=radical)](https://github.com/Aaliyacs/Smart-Medicine-Expiry-Inventory-System)
 
