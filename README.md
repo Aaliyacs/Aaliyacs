@@ -10,11 +10,11 @@
 
 ## 📊 GitHub Stats
 
-![Aaliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aaliyacs&show_icons=true&theme=radical)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aaliyacs&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaliyacs&layout=compact&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aaliyacs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
