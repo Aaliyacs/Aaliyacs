@@ -10,14 +10,8 @@
 
 ## 📊 GitHub Stats
 
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aaliyacs&theme=dark)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aaliyacs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
