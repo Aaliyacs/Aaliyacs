@@ -19,7 +19,13 @@
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-[![Smart Medicine Expiry Inventory System](https://github-readme-stats.vercel.app/api/pin/?username=Aaliyacs&repo=Smart-Medicine-Expiry-Inventory-System&theme=radical)](https://github.com/Aaliyacs/Smart-Medicine-Expiry-Inventory-System)
+### 💊 [Smart Medicine Expiry Inventory System](https://github.com/Aaliyacs/Smart-Medicine-Expiry-Inventory-System)
+
+- Developed a system to track and manage medicine inventory while identifying medicines nearing their expiry dates.
+- Designed features to help pharmacies or hospitals reduce wastage and improve inventory monitoring.
+- Implemented the application with a user-friendly interface for efficient medicine record management.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ## 📊 GitHub Stats
 
