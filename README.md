@@ -1,7 +1,6 @@
-# Hi there 👋 I'm Aaliya
-<br><br>
+## Hi there 👋 I'm Aaliya
 
-💻 **MERN Stack Developer** | 🧠 **DSA Problem Solving Enthusiast**
+##💻 **MERN Stack Developer** | 🧠 **DSA Problem Solving Enthusiast**
 
 
 # 💫 About Me:
