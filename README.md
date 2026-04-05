@@ -46,5 +46,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aaliyacs&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+### ⭐ Support
+
+If you like my projects, don't forget to **star the repositories** ⭐
+
+---
+
+💙 **Made with love by Aaliya**
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
